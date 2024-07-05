@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Scope_and_conditional_flow_q2/1.0.0": {
+        "runtime": {
+          "Scope_and_conditional_flow_q2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Scope_and_conditional_flow_q2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\Stuff\C#\CoderSchool_L4_Scope_Condition_flow\Scope_and_conditional_flow_q1\bin\Debug\net8.0\Scope_and_conditional_flow_q1.exe
+D:\Stuff\C#\CoderSchool_L4_Scope_Condition_flow\Scope_and_conditional_flow_q1\bin\Debug\net8.0\Scope_and_conditional_flow_q1.deps.json
+D:\Stuff\C#\CoderSchool_L4_Scope_Condition_flow\Scope_and_conditional_flow_q1\bin\Debug\net8.0\Scope_and_conditional_flow_q1.runtimeconfig.json
+D:\Stuff\C#\CoderSchool_L4_Scope_Condition_flow\Scope_and_conditional_flow_q1\bin\Debug\net8.0\Scope_and_conditional_flow_q1.dll
+D:\Stuff\C#\CoderSchool_L4_Scope_Condition_flow\Scope_and_conditional_flow_q1\bin\Debug\net8.0\Scope_and_conditional_flow_q1.pdb
+D:\Stuff\C#\CoderSchool_L4_Scope_Condition_flow\Scope_and_conditional_flow_q1\obj\Debug\net8.0\Scope_and_conditional_flow_q1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\C#\CoderSchool_L4_Scope_Condition_flow\Scope_and_conditional_flow_q1\obj\Debug\net8.0\Scope_and_conditional_flow_q1.AssemblyInfoInputs.cache
+D:\Stuff\C#\CoderSchool_L4_Scope_Condition_flow\Scope_and_conditional_flow_q1\obj\Debug\net8.0\Scope_and_conditional_flow_q1.AssemblyInfo.cs
+D:\Stuff\C#\CoderSchool_L4_Scope_Condition_flow\Scope_and_conditional_flow_q1\obj\Debug\net8.0\Scope_and_conditional_flow_q1.csproj.CoreCompileInputs.cache
+D:\Stuff\C#\CoderSchool_L4_Scope_Condition_flow\Scope_and_conditional_flow_q1\obj\Debug\net8.0\Scope_and_conditional_flow_q1.dll
+D:\Stuff\C#\CoderSchool_L4_Scope_Condition_flow\Scope_and_conditional_flow_q1\obj\Debug\net8.0\refint\Scope_and_conditional_flow_q1.dll
+D:\Stuff\C#\CoderSchool_L4_Scope_Condition_flow\Scope_and_conditional_flow_q1\obj\Debug\net8.0\Scope_and_conditional_flow_q1.pdb
+D:\Stuff\C#\CoderSchool_L4_Scope_Condition_flow\Scope_and_conditional_flow_q1\obj\Debug\net8.0\Scope_and_conditional_flow_q1.genruntimeconfig.cache
+D:\Stuff\C#\CoderSchool_L4_Scope_Condition_flow\Scope_and_conditional_flow_q1\obj\Debug\net8.0\ref\Scope_and_conditional_flow_q1.dll
